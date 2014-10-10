@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>42's wall</title><link href="/" rel="alternate"></link><link href="/feeds/zhanggan.atom.xml" rel="self"></link><id>/</id><updated>2013-04-18T00:00:00+02:00</updated><entry><title>文章标题</title><link href="/wen-zhang-biao-ti.html" rel="alternate"></link><updated>2013-04-18T00:00:00+02:00</updated><author><name>zhanggan</name></author><id>tag:,2013-04-18:wen-zhang-biao-ti.html</id><summary type="html">&lt;p&gt;这里是内容
+test&lt;/p&gt;</summary></entry></feed>
